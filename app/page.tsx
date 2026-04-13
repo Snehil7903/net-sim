@@ -148,7 +148,7 @@ export default function Home() {
               <div className="p-6 rounded-2xl bg-purple-500/5 border border-purple-500/20">
                 <h3 className="text-xl font-semibold text-purple-400 mb-4">Reliability & Flow</h3>
                 <p className="text-slate-400 text-sm leading-relaxed">
-                  The Transport Layer provides end-to-end communication services. **TCP** ensures reliability, while **UDP** prioritizes speed.
+                  The Transport Layer provides end-to-end communication services. TCP ensures reliability, while UDP prioritizes speed.
                 </p>
 
                 <div className="mt-8 grid grid-cols-2 gap-4">
